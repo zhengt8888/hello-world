@@ -1,2 +1,2 @@
 # hello-world
-the first item on mygit
+the first item on mygit and its first branch
